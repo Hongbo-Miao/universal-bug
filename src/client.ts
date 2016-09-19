@@ -8,7 +8,6 @@ import { MainModule } from './main.browser';
 const platformRef = platformUniversalDynamic();
 
 // enableProdMode();
-// log.disableAll();
 
 // on document ready bootstrap Angular 2
 document.addEventListener('DOMContentLoaded', () => {

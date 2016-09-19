@@ -17,7 +17,6 @@ export const DECLARATIONS = [
   App
 ];
 
-
 export const PROVIDERS = [
 
 ];
