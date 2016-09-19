@@ -1,4 +1,3 @@
-import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule } from '@angular/forms';
 import { UniversalModule } from 'angular2-universal';
 
@@ -7,7 +6,6 @@ import { App } from './app/components/app/';
 
 
 export const IMPORTS = [
-  BrowserModule,
   FormsModule,
   UniversalModule
 ];
